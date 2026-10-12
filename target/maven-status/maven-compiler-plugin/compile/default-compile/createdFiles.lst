@@ -1,0 +1,7 @@
+com\college\events\model\CollegeEvent.class
+com\college\events\repository\EventRegistrationRepository.class
+com\college\events\model\EventRegistration.class
+com\college\events\controller\EventController.class
+com\college\events\CollegeEventApiApplication.class
+com\college\events\repository\CollegeEventRepository.class
+com\college\events\config\WebConfig.class
